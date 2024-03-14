@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Header]()]
 
 I'm a passionate frontend developer with a keen eye for design and user experience. Currently, I'm honing my skills in frontend technologies and striving to create seamless and visually appealing web applications.
 
@@ -19,8 +19,6 @@ I'm a passionate frontend developer with a keen eye for design and user experien
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ulyanatouch)
 
 or shoot me an email at ulyana9963@gmail.com.
-
-😄 Pronouns: She/Her
 
 ⚡ Fun fact: I'm a big fan of outdoor adventures and love hiking in my free time!
 
