@@ -1,4 +1,4 @@
-[![Header]()]
+[![Header](https://github.com/ulyanatouch/ulyanatouch/blob/main/assets/header.png)]
 
 I'm a passionate frontend developer with a keen eye for design and user experience. Currently, I'm honing my skills in frontend technologies and striving to create seamless and visually appealing web applications.
 
