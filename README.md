@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**ulyanatouch/ulyanatouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate frontend developer with a keen eye for design and user experience. Currently, I'm honing my skills in frontend technologies and striving to create seamless and visually appealing web applications.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on enhancing my frontend development skills and building exciting projects to showcase my abilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning new frontend frameworks and libraries to stay updated with the latest industry trends and best practices.
+
+👯 I’m looking to collaborate on interesting frontend projects where I can contribute my expertise and learn from others in the community.
+
+🤔 I’m looking for help with mastering advanced frontend concepts and exploring more about backend development to become a full-stack developer.
+
+💬 Ask me about anything related to frontend development, Git, Linux, Docker, manual QA testing, or database technologies like SQL and MongoDB. I'm always eager to share my knowledge and experiences.
+
+📫 How to reach me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/uliana9963/) or shoot me an email at ulyana9963@gmail.com.
+
+😄 Pronouns: She/Her
+
+⚡ Fun fact: I'm a big fan of outdoor adventures and love hiking in my free time!
+
