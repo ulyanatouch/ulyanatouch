@@ -1,4 +1,4 @@
-### Hi there 👋, I am Ulyana Touch
+### Hi there 👋, I am Athena
 
 <!-- ![Header](https://github.com/ulyanatouch/ulyanatouch/blob/main/assets/feniks.png) -->
 
