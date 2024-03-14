@@ -1,4 +1,8 @@
-![Header](https://github.com/ulyanatouch/ulyanatouch/blob/main/assets/feniks.png)
+### Hi there 👋, I am Ulyana Touch
+
+<!-- ![Header](https://github.com/ulyanatouch/ulyanatouch/blob/main/assets/feniks.png) -->
+
+![Profile image](no__internet2.gif)
 
 I'm a passionate frontend developer with a keen eye for design and user experience. Currently, I'm honing my skills in frontend technologies and striving to create seamless and visually appealing web applications.
 
@@ -20,5 +24,5 @@ I'm a passionate frontend developer with a keen eye for design and user experien
 
 or shoot me an email at ulyana9963@gmail.com.
 
-⚡ Fun fact: I'm a big fan of outdoor adventures and love hiking in my free time!
+⚡ Fun fact: I'm a big fan of outdoor adventures and love hiking in my free time! I like to play ultimate and drink coffee!
 
