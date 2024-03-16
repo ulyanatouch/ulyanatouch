@@ -40,12 +40,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ulyanatouch)
 
 - :email: ulyana9963@gmail.com.
-- - 🌍 I speak English, German, Ukrainian, Russian
+- 🌍 I speak English, German, Ukrainian, Russian
 
-⚡ Fun fact: I'm a big fan of outdoor adventures and love hiking in my free time! I like to play Sims 4 and drink Orange juice!
+<br>
 
-### Profile views counter 👁️‍🗨️
-[![Ulyana Touch profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/ulyanatouch)
-
-
-<!-- [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
+⚡ Fun fact: I'm a big fan of outdoor adventures and love hiking in my free time! I like to play Sims 4 and dancing!
