@@ -1,5 +1,7 @@
 ### Hi there 👋, I am Uliana
 
+### <pre>I'm a passionate frontend developer with a keen eye for design and user experience. Currently, I'm honing my skills in frontend technologies and striving to create seamless and visually appealing web applications.</pre>
+
 <!-- ![Header](https://github.com/ulyanatouch/ulyanatouch/blob/main/assets/feniks.png) -->
 
 ![Profile image](https://github.com/ulyanatouch/ulyanatouch/blob/main/assets/no__internet2.gif)
@@ -24,8 +26,6 @@
 <img align="left" width="26px" src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   
 <br> 
-
-### <pre>I'm a passionate frontend developer with a keen eye for design and user experience. Currently, I'm honing my skills in frontend technologies and striving to create seamless and visually appealing web applications.</pre>
 
 🔭 I’m currently working on enhancing my frontend development skills and building exciting projects to showcase my abilities.
 
