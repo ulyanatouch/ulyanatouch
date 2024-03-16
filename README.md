@@ -25,7 +25,9 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   
- 🌱 I’m currently learning new frontend frameworks and libraries to stay updated with the latest industry trends and best practices.
+&nbsp;
+
+🌱 I’m currently learning new frontend frameworks and libraries to stay updated with the latest industry trends and best practices.
 
 👯 I’m looking to collaborate on interesting frontend projects where I can contribute my expertise and learn from others in the community.
 
