@@ -25,6 +25,8 @@
 <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 <img align="left" width="26px" src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   
+
+
 I'm a passionate frontend developer with a keen eye for design and user experience. Currently, I'm honing my skills in frontend technologies and striving to create seamless and visually appealing web applications.
 
 🔭 I’m currently working on enhancing my frontend development skills and building exciting projects to showcase my abilities.
