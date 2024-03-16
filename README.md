@@ -27,7 +27,6 @@
   
 <br> 
 
-🔭 I’m currently working on enhancing my frontend development skills and building exciting projects to showcase my abilities.
 
 🌱 I’m currently learning new frontend frameworks and libraries to stay updated with the latest industry trends and best practices.
 
