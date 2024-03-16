@@ -43,4 +43,4 @@
 
 <br>
 
-⚡ Fun fact: I'm a big fan of outdoor adventures and love hiking in my free time! I like to play Sims 4 and dancing!
+⚡ Fun fact: I'm a big fan of outdoor adventures and love hiking in my free time! I like to play Sims 4, dancing & always learning!
