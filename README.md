@@ -27,7 +27,7 @@
   
 
 
-### I'm a passionate frontend developer with a keen eye for design and user experience. Currently, I'm honing my skills in frontend technologies and striving to create seamless and visually appealing web applications.
+### <pre>I'm a passionate frontend developer with a keen eye for design and user experience. Currently, I'm honing my skills in frontend technologies and striving to create seamless and visually appealing web applications.</pre>
 
 🔭 I’m currently working on enhancing my frontend development skills and building exciting projects to showcase my abilities.
 
