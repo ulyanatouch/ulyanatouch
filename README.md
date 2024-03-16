@@ -27,19 +27,17 @@
 
 &nbsp;
 
-
-
-> **I’m currently learning new frontend frameworks and libraries** to stay updated with the latest industry trends and best practices.
-
-> **I’m looking to collaborate on interesting frontend projects** where I can contribute my expertise and learn from others in the community.
-
-
-
 ### Socials:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/uliana9963)
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ulyanatouch)
+
+&nbsp;
+
+> **I’m currently learning new frontend frameworks and libraries** to stay updated with the latest industry trends and best practices.
+
+> **I’m looking to collaborate on interesting frontend projects** where I can contribute my expertise and learn from others in the community.
 
 - :email: ulyana9963@gmail.com.
 - <u>🌍 I speak English, German, Ukrainian, Russian </u>
