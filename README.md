@@ -39,8 +39,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/ulyanatouch)
 
 - :email: ulyana9963@gmail.com.
-- 🌍 I speak English, German, Ukrainian, Russian
+- <u>🌍 I speak English, German, Ukrainian, Russian </u>
 
 <br>
 
-⚡ Fun fact: I'm a big fan of outdoor adventures and love hiking in my free time! I like to play Sims 4, dancing & always learning!
+⚡ ***Fun fact: I'm a big fan of outdoor adventures and love hiking in my free time! I like to play Sims 4, dancing & always learning!***
