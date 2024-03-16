@@ -27,9 +27,12 @@
 
 &nbsp;
 
-🌱 > I’m currently learning new frontend frameworks and libraries to stay updated with the latest industry trends and best practices.
+🌱
+> **I’m currently learning new frontend frameworks and libraries** to stay updated with the latest industry trends and best practices.
 
-👯 > I’m looking to collaborate on interesting frontend projects where I can contribute my expertise and learn from others in the community.
+👯
+> **I’m looking to collaborate on interesting frontend projects** where I can contribute my expertise and learn from others in the community.
+
 
 
 ### Socials:
